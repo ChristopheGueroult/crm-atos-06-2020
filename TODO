@@ -3,6 +3,9 @@
 ✔ Lancer l'appli dans un localhost @done(20-06-22 12:33)
 ✔ l'interpolation @done(20-06-22 12:46)
 ✔ encapsulation emulated @done(20-06-22 12:46)
-☐ methodologie de conception Agile
-☐ architecture d'une appli angular
-☐ architecture de notre appli
+✔ methodologie de conception Agile @done(20-06-22 14:40)
+✔ architecture d'une appli angular @done(20-06-22 14:40)
+✔ architecture de notre appli @done(20-06-22 14:40)
+✔ library graphique @done(20-06-22 16:02)
+✔ library icons @done(20-06-22 16:02)
+☐ IconsModule and TextModule
