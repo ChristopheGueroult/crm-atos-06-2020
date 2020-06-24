@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, OnChanges, DoCheck } from '@angular/core';
 import { ItemLink } from '../../interfaces/item-link';
 
 @Component({
@@ -8,9 +8,12 @@ import { ItemLink } from '../../interfaces/item-link';
 })
 export class VerticalNavComponent implements OnInit {
   @Input() itemsLink: ItemLink[];
-  constructor() { }
+  constructor() {
+  }
+
 
   ngOnInit(): void {
   }
+
 
 }
