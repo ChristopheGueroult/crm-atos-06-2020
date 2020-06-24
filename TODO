@@ -9,3 +9,6 @@
 ✔ library graphique @done(20-06-22 16:02)
 ✔ library icons @done(20-06-22 16:02)
 ✔ IconsModule and TextModule @done(20-06-23 12:51)
+✔ nav dynamic with @Input() @done(20-06-24 09:08)
+☐ life cycles
+☐ router events
