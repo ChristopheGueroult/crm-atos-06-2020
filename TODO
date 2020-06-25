@@ -14,8 +14,8 @@
 ✔ router events @done(20-06-24 16:21)
 ✔ obsservable @done(20-06-24 16:22)
 ✔ appel http @done(20-06-24 16:22)
-☐ variables d'environnement
-☐ pipe async
+✔ variables d'environnement @done(20-06-25 08:22)
+✔ pipe async @done(20-06-25 08:52)
 ☐ change state http
 ☐ pipes angular
 ☐ pipe perso
